@@ -1,5 +1,5 @@
 # geocoder
-A Geocoder custom class for translate GPS Coordinates into an address.
+A Geocoder custom class for translate GPS Coordinates into an address for Android
 
 The GeoCoder class present in Google Android API is not compatible with all device. Sometimes when you use this API you can have a Network Exception because the device have deactivated the service, to preserve the battery life.
 
